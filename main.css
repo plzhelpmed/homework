@@ -44,14 +44,29 @@ body{
 }
 
 .firstbody .title{
-    font-family: sans-serif;
-    font-size: 50px;
-    font-weight: bold;
-    color: white;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #fff;
+    font-size: 60px;
 }
 .firstbody .subtitle{
-    font-family: sans-serif;
-    font-size: 30px;
-    font-weight: bold;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
     color: rgb(255, 255, 255);
 }
+.wrapper{
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.wrapper p{
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
